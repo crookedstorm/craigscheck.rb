@@ -1,0 +1,5 @@
+# This is the config for craigscheck.rb!
+:region: nyc
+:pattern: "food"
+:sections: [zip,sga]
+:price: [0,200]
